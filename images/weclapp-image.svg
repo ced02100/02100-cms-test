@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="223.8" height="114" viewBox="0 0 223.8 114">
+  <defs>
+    <filter id="Rectangle_21" x="0" y="0" width="223.8" height="114" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9" data-name="Group 9" transform="translate(-1674.5 -115.5)">
+    <g id="Group_3" data-name="Group 3" transform="translate(1697 138)">
+      <g transform="matrix(1, 0, 0, 1, -22.5, -22.5)" filter="url(#Rectangle_21)">
+        <rect id="Rectangle_21-2" data-name="Rectangle 21" width="178.8" height="69" rx="5" transform="translate(22.5 22.5)" fill="#f8f8f8"/>
+      </g>
+    </g>
+    <text id="weclapp" transform="translate(1737 178.87)" fill="#939cbc" font-size="22" font-family="Mont-Heavy, Mont" font-weight="800"><tspan x="0" y="0">weclapp</tspan></text>
+  </g>
+</svg>
